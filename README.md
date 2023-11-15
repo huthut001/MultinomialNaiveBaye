@@ -22,3 +22,7 @@ The project is organized as follows:
 2. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
+
+3. **Run the Workflow:**
+   ```bash
+   python main.py
