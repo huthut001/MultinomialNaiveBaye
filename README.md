@@ -19,4 +19,6 @@ The project is organized as follows:
    git clone https://github.com/yourusername/your-repository.git
    cd your-repository
 
-pip install -r requirements.txt
+2. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
