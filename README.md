@@ -8,6 +8,7 @@ The project is organized as follows:
 
 - **data/:** Contains raw and processed datasets.
 - **results/:** Stores the trained model and any output files.
+- **notebook/:** example on colab to train Multinomial Naive Baye.
 - **model_trainer.py:** Defines classes for training and saving a Multinomial Naive Bayes classifier.
 - **data_handler.py:** Defines classes for loading, preprocessing, and saving data.
 - **main.py:** The main script for running the entire workflow.
